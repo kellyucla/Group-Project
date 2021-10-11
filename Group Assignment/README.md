@@ -22,7 +22,7 @@ Source 2:[]()
 **Scope**
 
 A scope that explains the intended analysis and resulting visualizations for your project
-
+For this project, we intend to analyze the impacts of flooding in low income communities in San Diego. We want to create a visualization of areas that experience heavy floods to see if movement of water motivates the movement of people as well. Do people relocate or stay in these areas? Does choosing to stay actually cost people more in the term if repairs are constantly needed? We want to analyze flooding and articulate its impact on people of different socioeconomic status via mapping to emphasize the importance of having flood protection in place for at risk areas. 
 
 **Conclusion**
 
