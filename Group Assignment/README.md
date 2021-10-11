@@ -15,17 +15,22 @@ A preliminary but definitive description of data sources (at least two) that you
 Include datasource with links
 
 Source 1: [SanGIS](https://www.sangis.org/)
+Dataset 1: [Drain SanGIS](https://rdw.sandag.org/Account/gisdtview?dir=StormDrain)
 
-Using this source, I will be able to access information on municipal storm sewer system, flood control, and road culverts in San Diego, San Diego County, and Unincorporated San Diego County. The information is available for download with a user account as a pdf or shapefile.
+Using this source, I will be able to access information on municipal storm sewer system, flood control, and road culverts in San Diego, San Diego County, and Unincorporated San Diego County. The information is available for download with a user account as a pdf or shapefile. Specifically, we would like to look at San Diego city data that looks at drain conveyance and prevelance in certain areas.
 
-Source 2:[]()
+Source 2:[Census](https://www.census.gov/)
+
+Using Census data would be useful for analysis of the area and the types of resources that are available in Logan Heights and Mission Valley (our primary location of analysis). This data can be dowloaded and modified to what we need and want to be part of data visualization. We can use csv or zip.
+
 
 **Scope**
 
-A scope that explains the intended analysis and resulting visualizations for your project
+A scope that explains the intended analysis and resulting visualizations for your project.
 For this project, we intend to analyze the impacts of flooding in low income communities in San Diego. We want to create a visualization of areas that experience heavy floods to see if movement of water motivates the movement of people as well. Do people relocate or stay in these areas? Does choosing to stay actually cost people more in the term if repairs are constantly needed? We want to analyze flooding and articulate its impact on people of different socioeconomic status via mapping to emphasize the importance of having flood protection in place for at risk areas. 
 
 **Conclusion**
 
 
 A concluding paragraph of what insights you expect to gain from your research
+This research will provide visualization of what can be improved in these areas and where funding could be placed to prevent community members from being displaced because of natural disasters. Climate change is the main environmental issue in the world today. It impacts everything in environment making conditions unpredictable. It is important to prioritize the areas that are most vulnerable.
