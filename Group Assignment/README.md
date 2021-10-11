@@ -1,12 +1,12 @@
 **Introduction**
 
-Winter storms in California can result in flash floods, high coastal surf, and general flooding that create treacherous conditions for people and animals. Depending on the existing infrastructure and its condition, some areas are unable to sufficiently protect communities from floods. We want to how does flooding impact low income communities in San Diego?
+Winter storms in California can be unpredicatable and on heavy storm years can result in flash floods, high coastal surf, and general flooding that creates treacherous conditions for people and animals. Current infrastructure and its condition in certain communities is poor and is unable to sufficiently protect communities from floods. We want to analyze whether flooding disproportionately impacts low income communities in San Diego.
 
-This data is important because climate change will exacerbate weather conditions and those that will be most affected will be minority groups. By studying what areas experiecnce frequent flooding, we can improve communities so that it is safer for people to live. Additionally, cities that are able to adapt to climate change are better able to protect those that reside there. With greater flood protection, residents are kept safe from personal injuries and property damage.
+This data is important because climate change will exacerbate weather conditions and those that will be most affected will be minority groups vulnerable to displacement. Infrastructure improvement is determined by studying what areas experience frequent flooding, ultimately making these communities safer to live in. Additionally, cities that are able to adapt to climate change are better able to protect those that reside there. With greater flood protection, residents are kept safe from personal injuries and property damage.
 
 **Spatial Scope**
 
-THe spatial scope of this project will be at the city level with San Diego as our area of study. Specifically, we will look at areas that are prone to flooding such as Logan Heights and Mission Valley.
+The spatial scope of this project will be at the city level with San Diego as our area of study. Specifically, we will look at areas that are prone to flooding such as Logan Heights and Mission Valley.
 These areas are also located close to bodies of water that rise during the rainy seasons and may overflow into unprotected communities.
 
 **Description of Data Sources**
