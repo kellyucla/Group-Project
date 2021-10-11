@@ -6,7 +6,7 @@ This data is important because climate change will exacerbate weather conditions
 
 **Spatial Scope**
 
-Our area of study will be in San Diego. Specifically, areas that are prone to flooding such as Logan Heights and Mission Valley.
+THe spatial scope of this project will be at the city level with San Diego as our area of study. Specifically, we will look at areas that are prone to flooding such as Logan Heights and Mission Valley.
 These areas are also located close to bodies of water that rise during the rainy seasons and may overflow into unprotected communities.
 
 **Description of Data Sources**
